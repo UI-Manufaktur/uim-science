@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-science
+uim-science.so
+uim-science.dylib
+uim-science.dll
+uim-science.a
+uim-science.lib
+uim-science-test-*
+*.exe
+*.o
+*.obj
+*.lst
