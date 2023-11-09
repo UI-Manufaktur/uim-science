@@ -1,7 +1,7 @@
 .dub
 docs.json
 __dummy.html
-docs/
+
 /uim-science
 uim-science.so
 uim-science.dylib
